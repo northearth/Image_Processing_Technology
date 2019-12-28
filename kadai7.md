@@ -45,7 +45,7 @@ imhist(ORG); % ヒストグラムの表示
 
 この結果を図2に示す．
 
-![原画像](https://github.com/northearth/Image_Processing_Technology/blob/master/image/kadai4_1.jpg)  
+![原画像](https://github.com/northearth/Image_Processing_Technology/blob/master/image/kadai7_3.jpg)  
 図2 ダイナミックレンジを変更した白黒原画像のヒストグラム
 
 なお，　前述の処理を行わずにヒストグラムを生成しようとしても表示することはできない．
