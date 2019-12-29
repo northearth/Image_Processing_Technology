@@ -44,7 +44,7 @@ IMG = medfilt2(ORG,[3 3]); % メディアンフィルタで雑音除去
 
 最後に，作成したフィルタを用いてノイズ除去を行う．ここでは，以下の行列fを用いる．
 
-![原画像](https://github.com/northearth/Image_Processing_Technology/blob/master/image/kadai9_matrix.gif)  
+![原画像](https://github.com/northearth/Image_Processing_Technology/blob/master/image/kadai9_matrix.png)  
 
 f=[0,-1,0;-1,5,-1;0,-1,0]; % フィルタの設計  
 IMG = filter2(f,IMG,'same'); % フィルタの適用  
