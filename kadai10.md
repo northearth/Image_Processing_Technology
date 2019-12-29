@@ -39,3 +39,5 @@ IMG = edge(ORG,'canny'); % エッジ抽出（キャニー法）
 
 ![原画像](https://github.com/northearth/Image_Processing_Technology/blob/master/image/kadai10_3.jpg)  
 図4 キャニー法を用いたエッジ抽出処理画像
+
+このように，様々な方法を用いて画像のエッジ抽出を行うことができることがわかる．
