@@ -53,3 +53,7 @@ IMG = filter2(f,IMG,'same'); % フィルタの適用
 
 ![原画像](https://github.com/northearth/Image_Processing_Technology/blob/master/image/kadai9_4.jpg)  
 図4 メディアンフィルタを用いてノイズ除去を行った画像
+
+このように，様々なフィルタを用いることで，ノイズを除去できることがわかる．
+
+一方で，その精度はフィルタによって差があるため，適切に使い分けなければならない．
